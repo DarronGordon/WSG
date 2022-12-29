@@ -1,4 +1,8 @@
 
+.html{
+width: 100vw;
+overflow-x: hidden;
+}
 
 .homeContainer{
 display: flex;
@@ -11,9 +15,33 @@ margin: auto;
 
 
 .homeHeader{
-    background-image: url(./Images/mainHeader.png);
-    background-size: cover;
-    width: 100vw;
-    height: 25vh;
-    background-repeat: no-repeat;
+
+    img{
+        justify-content: center;
+        align-self: center;
+        background-position:center;
+        width: 100vw;
+        height:100%;
+        scale: 105%;
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+    }
+background-color: black;
+}
+
+
+.homeContents{
+
+    background-image: linear-gradient(black,rgb(49, 7, 7));
+}
+
+.homeAboutGym{
+    margin: 2rem;
+    color: white;
+}
+
+.homeAboutInstructors{
+        margin: 2rem;
+    color: white;
 }

@@ -45,7 +45,7 @@ isExpanded =false;
           <a href="/">Home</a>
       </li>
           <li className={isNavExpandedMNI}>
-              <a href="TimeTable">TimeTable</a>
+              <a href="TimeTablePg">TimeTable</a>
           </li>
           <li className={isNavExpandedMNI}>
               <a href="Gallery">Gallery</a>

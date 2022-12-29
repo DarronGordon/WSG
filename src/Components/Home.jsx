@@ -1,26 +1,33 @@
 
+import "./Styles/HomeStyles.scss"
+import {Content} from "./Contents"
 
+import ImageSlide from "./ImageSlider"
 
 export const Home =() =>{
-
+const aboutGym = Content.homeAboutGym;
+const aboutWeik = Content.homeAboutInstructor;
     return(
         <div className="homeContainer">
-        <h1>Home</h1>
-        <div className="homeHeader">
 
-        </div>
+        <div className="homeContents">
         <div className="homeSlider">
-
+             <ImageSlide></ImageSlide>
         </div>
-        <div className="homeAboutGym">
+<div className="homeAboutGym">
+ {aboutGym}
+</div>
+<br></br>
+<hr></hr>
+<div className="homeAboutInstructors">
 
-        </div>
-        <div className="homeAboutInstructors">
+{aboutWeik}
+</div>
+<div className="homeTestamonials">
 
+</div>
         </div>
-        <div className="homeTestamonials">
-
-        </div>
+  
         </div>
     )
 } 
