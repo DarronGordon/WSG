@@ -1,4 +1,19 @@
 
+
+.homeContainer{
+display: flex;
+flex-direction: column;
+justify-content: center;
+text-align: center;
+margin: auto;
+
+}
+
+
 .homeHeader{
-    background-image: url(./Images/);
+    background-image: url(./Images/mainHeader.png);
+    background-size: cover;
+    width: 100vw;
+    height: 25vh;
+    background-repeat: no-repeat;
 }
