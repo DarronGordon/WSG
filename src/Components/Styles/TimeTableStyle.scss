@@ -1,0 +1,49 @@
+
+
+.timeTbalePG{
+text-align: center;
+}
+
+
+
+
+.Dates{
+    display: flex;
+    flex-direction: column;
+    
+}
+.day{
+    width:100px;
+    height:75px;
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+
+.mornings{
+    display: flex;
+    flex-direction: column;
+}
+.morning{
+    width:100px;
+    height:75px;
+    background-color: rgb(44, 146, 112);
+    border: 1px solid black;
+}
+
+.evenings{
+    display: flex;
+    flex-direction: column;
+}
+.evening{
+    width:100px;
+    height:75px;
+    background-color: rgb(247, 187, 23);
+    border: 1px solid black;
+}
+
+.timeTable{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    text-align: center;
+}
