@@ -1,4 +1,4 @@
-import logo from "./Images/WSGLogo.png";
+import logo from "./Images/WSGLogoNew.png";
   import "./Styles/Footer.scss";
   import fbIcon from "./Images/fbIcon.png"
   

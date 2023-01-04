@@ -11,8 +11,14 @@ const aboutWeik = Content.homeAboutInstructor;
         <div className="homeContainer">
 
         <div className="homeContents">
+  
         <div className="homeSlider">
+
+
              <ImageSlide></ImageSlide>
+
+        <h1>Brazilian Jiu-Jistu</h1>
+
         </div>
 <div className="homeAboutGym">
  {aboutGym}

@@ -17,6 +17,11 @@ export const TimeTablePg = () =>
 
 <h2>Beginner Classes</h2>
 <h2>Tuesday and Thursday 18H00-19H00 K1 boxing Fitness 19H00-20H00 Beginner Brazilian Jiu-Jitsu.</h2>
+<br></br>
+
+<h2>Private and 1 on 1 classes please <a href="Contact">contact</a> Wiekus directly for times and prices.</h2>
+
+
 
 <h2> Open Mat every Saturday.</h2>
 
@@ -150,8 +155,6 @@ export const TimeTablePg = () =>
 </div>
 
 </div>
-
-<h2>Private and 1 on 1 classes please <a href="Contact">contact</a> Wiekus directly for times and prices.</h2>
 
 
         </div>

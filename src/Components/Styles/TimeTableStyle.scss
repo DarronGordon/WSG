@@ -44,6 +44,40 @@ text-align: center;
 .timeTable{
     display: flex;
     justify-content: center;
-    margin: 2rem;
+    margin: 2rem auto;
     text-align: center;
+    width: 100%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.monday
+{
+background-color: rgb(123, 178, 192);
+}
+
+.tuesday
+{
+background-color: rgb(185, 80, 80);
+}
+.wednesday
+{
+background-color: rgb(123, 178, 192);
+}
+
+.thursday
+{
+background-color: rgb(185, 80, 80);
+}
+.friday
+{
+background-color: rgb(123, 178, 192);
+}
+
+.sat
+{
+background-color: rgb(93, 185, 50);
+}
+.sunday
+{
+background-color: rgb(77, 77, 77);
 }

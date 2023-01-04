@@ -5,7 +5,7 @@ import Footer from './Components/Footer';
 import {TimeTablePg} from "./Components/TimeTablePg";
 import {Contact} from "./Components/Contact";
 import {Achievements} from "./Components/Achievements";
-import header from "./Components/Images/mainHeader.png";
+import header from "./Components/Images/newLogo.jpg";
 import "./App.css"
 
 function App() {

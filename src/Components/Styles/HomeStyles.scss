@@ -27,21 +27,27 @@ margin: auto;
         background-repeat: no-repeat;
         margin-top: 1rem;
     }
-background-color: black;
+    background-image: linear-gradient(to right,#e0e0e0,#f8f7f7);
 }
 
 
 .homeContents{
 
-    background-image: linear-gradient(black,rgb(49, 7, 7));
+    background-image: linear-gradient(to right,#d2d2d2,#f4f4f4);
 }
 
 .homeAboutGym{
-    margin: 2rem;
+    margin: 3rem;
     color: white;
+    background-color: black;
+    border-radius: 2%;
+    padding: 1rem;
 }
 
 .homeAboutInstructors{
-        margin: 2rem;
+    margin: 3rem;
     color: white;
+    background-color: black;
+    border-radius: 2%;
+    padding: 1rem;
 }
