@@ -1,29 +1,31 @@
 
 import "./Styles/TimeTableStyle.scss";
 
+import bg from "./Images/2.jpg";
+
 export const TimeTablePg = () =>
 {
 
     return(
         <div className="timeTbalePG">
 
-<h2>Brazilian Jiu-Jistu, Grappling</h2>
+<h1>Brazilian Jiu-Jistu Grappling</h1>
 
-<h2>R950.00 Monthly</h2>
+<h1>R950.00 Monthly</h1>
 
 <h2>Advanced Classes </h2>
 
-<h2>Monday and Wednesday 18H00-19H00 Gi 19H00-20H00 No-Gi.</h2>
+<h3>Monday and Wednesday 18H00-19H00 Gi, 19H00-20H00 No-Gi.</h3>
 
 <h2>Beginner Classes</h2>
-<h2>Tuesday and Thursday 18H00-19H00 K1 boxing Fitness 19H00-20H00 Beginner Brazilian Jiu-Jitsu.</h2>
+<h3>Tuesday and Thursday 18H00-19H00 K1 boxing Fitness, 19H00-20H00 Beginner Brazilian Jiu-Jitsu.</h3>
 <br></br>
 
-<h2>Private and 1 on 1 classes please <a href="Contact">contact</a> Wiekus directly for times and prices.</h2>
+<h3>Private and 1 on 1 classes please <a href="Contact">contact</a> Wiekus directly for times and prices.</h3>
 
 
 
-<h2> Open Mat every Saturday.</h2>
+<h2> Open Mat every Saturday 10am.</h2>
 
 <br>
 
@@ -155,6 +157,12 @@ export const TimeTablePg = () =>
 </div>
 
 </div>
+<br>
+
+</br>
+<img className="timeTableFooterImg" src={bg}></img>
+
+<h3>All Equipment and mats are cleaned multiple times a day. Please wash your GI and all your equipment before and after training.</h3>
 
 
         </div>

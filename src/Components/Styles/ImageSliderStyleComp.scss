@@ -1,0 +1,159 @@
+
+.slider-container{
+    width: 100%;
+    height: 100%;
+display: flex;
+justify-content: center;
+
+.aone{
+    
+    background:url(../Images/9.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.atwo{
+    background:url(../Images/comp10.jpg);
+    width:500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.athree{
+    background:url(../Images/comp1.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.afour{
+    background:url(../Images/comp2.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.afive{
+    background:url(../Images/comp4.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.asix{
+    background:url(../Images/comp6.jpg);
+    width: 500px;
+    height:350px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+
+.agone{
+    
+    background:url(../Images/comp7.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.agtwo{
+    background:url(../Images/comp8.jpg);
+    width:500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.agthree{
+    background:url(../Images/comp9.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.agfour{
+    background:url(../Images/comp10.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.agfive{
+    background:url(../Images/comp5.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.agsix{
+    background:url(../Images/comp11.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+.agseven{
+    background:url(../Images/comp12.png);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}.ageight{
+    background:url(../Images/comp3.jpg);
+    width: 500px;
+    height:400px;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    animation: slideIn 5s linear infinite;
+}
+
+
+
+}
+
+@media(min-width:32rem){
+    .slider-container{
+        margin-top: 3rem;
+    }
+}

@@ -11,13 +11,13 @@ export const Contact = () =>
         
         <div className="contactInfo">
         <div className="contactDetails">
-        <h3>CALL</h3>
-        <p>Weikus: (222) 222-2222</p>
+        <h3>Phone</h3>
+        <p>Wiekus: (222) 222-2222</p>
         <p>Monique: (222) 222-2222</p>
 
         <br></br>
         <h3>Email</h3>
-        <p>Weikus: Admin@WSG.co.za</p>
+        <p>Wiekus: Admin@WSG.co.za</p>
         <p>Monique: Admin@WSG.co.za</p>
  
         <div className="contactHeaders">
