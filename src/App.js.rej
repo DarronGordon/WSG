@@ -1,0 +1,10 @@
+diff a/src/App.js b/src/App.js	(rejected hunks)
+@@ -4,7 +4,7 @@
+ import Footer from './Components/Footer';
+ import {TimeTablePg} from "./Components/TimeTablePg";
+ import {Contact} from "./Components/Contact";
+-import {Gallery} from "./Components/Gallery";
++import {Achievements} from "./Components/Achievements";
+ import header from "./Components/Images/mainHeader.png";
+ import "./App.css"
+ 
