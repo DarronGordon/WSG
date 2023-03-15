@@ -12,17 +12,15 @@ export const Contact = () =>
         <div className="contactInfo">
         <div className="contactDetails">
         <h3>Phone</h3>
-        <p>Wiekus: (222) 222-2222</p>
-        <p>Monique: (222) 222-2222</p>
+        <h4>Wiekus: 082-331-9653</h4>
 
         <br></br>
         <h3>Email</h3>
-        <p>Wiekus: Admin@WSG.co.za</p>
-        <p>Monique: Admin@WSG.co.za</p>
+        <h4>Wiekus@wsgacademy.co.za</h4>
  
         <div className="contactHeaders">
         <h3>Visit us</h3>
-        <h4>23 Monkor rd, Randpark, Johannesberg</h4>
+        <h4>21 Monkor rd, Randpark, Johannesberg</h4>
         </div>
 
         </div> 

@@ -1,6 +1,9 @@
 
 export const SlideDataComp=[
     {
+        image:"oneA"
+    },
+    {
         image:"aone"
     },
     {

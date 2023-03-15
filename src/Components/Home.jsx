@@ -22,24 +22,28 @@ const aboutWiek = Content.homeAboutInstructor;
         <h1>Brazilian Jiu-Jistu</h1>
 
         </div>
-<div className="homeAboutGym">
+
+        <div className="homeGymAbout">
+        <div className="homeAboutGym">
 <a href="TimeTablePg">
 <h3>WSG Home of the wolf pack</h3>
- <p>We are a high level competitive Brazilian JiuJistu Gym, that trains daily throughout the year.  </p>
+ <p>We are a high level competitive Brazilian JiuJistu Gym.  </p>
  <h3>Welcome to all</h3>
  <p>If you want to get fit while learning Brazilian JiuJitsu we cater for everyone.  </p>
 </a>
 
 </div>
 <br></br>
-<hr></hr>
+<hr className="hrDotted"></hr>
 <div className="gymRanking">
 
 <img className="achievementbadge" src={achievement}></img>
+        </div>
+
 </div>
 
-<hr></hr>
-<br></br>
+
+<div className="instructorsBG">
 <div className="homeAboutInstructors">
 <a href="Contact">
 <h3>Wiekus Swart</h3>
@@ -50,6 +54,8 @@ const aboutWiek = Content.homeAboutInstructor;
 </a>
 
 </div>
+</div>
+
 
 <hr></hr>
 
@@ -57,16 +63,16 @@ const aboutWiek = Content.homeAboutInstructor;
 
 <div className="homeTestamonials">
 <div className="testamonial">
-<p>'WSG has become my home away from home. Now to get everyone grappling!!!'</p>
+<p>'Starting Brazilian JiuJistu was the best decision I have ever made!'</p>
 <p>D.M.Gordon</p>
 </div>
 <div className="testamonial">
-<p>'Lets Wrestle!!!!'</p>
-<p>Max.BLAHHHHH</p>
+<p>'Best sport in the world!'</p>
+<p>Max</p>
 </div>
 <div className="testamonial">
-<p>'Lorem ipsum dolor sit amet, consectetur adipiscing elit, , quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'</p>
-<p>Lorem ipsum </p>
+<p>'Ever wanted to have the best time? come to WSG!!!.'</p>
+<p>Anon</p>
 </div>
 </div>
         </div>

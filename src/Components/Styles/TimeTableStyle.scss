@@ -1,11 +1,15 @@
 
-
+.fees{
+    text-decoration: underline;
+}
 .timeTbalePG{
 text-align: center;
 }
 
 
-
+h2{
+    text-decoration: underline;
+}
 
 .Dates{
     display: flex;
@@ -47,7 +51,7 @@ text-align: center;
     margin: 2rem auto;
     text-align: center;
     width: 100%;
-    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  
 }
 
 .monday
@@ -87,4 +91,65 @@ background-color: rgb(77, 77, 77);
         background-size: contain;
         background-repeat: no-repeat;
 
+}
+
+@media (min-width: 40rem)
+{
+    h1{
+        font-size: 3.2rem;
+    }
+
+    h2{
+        font-size:2rem;
+        text-decoration: underline;
+    }
+    h3{
+       font-size:1.4rem;
+    }
+
+    .timeTable{
+        margin: 2rem 0;
+    }
+
+    .timeTableTxt{
+        margin: 2rem;
+        padding: 1rem;
+        box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    }
+
+    .morning{
+        width:150px;
+        height:90px;
+        border: 1px solid black;
+        p{
+            font-size: 1rem;
+            font-weight: 600;
+        }
+    }
+
+    .evening{
+        width:150px;
+        height:90px;
+
+        border: 1px solid black;
+        p{
+            font-size: 1rem;
+            font-weight: 600;
+        }
+    }
+
+    .day{
+        width:150px;
+        height:90px;
+   
+        border: 1px solid black;
+
+        h3{
+            font-size: 1.4rem;
+        }
+        h4{
+            font-size: 1.2rem;
+        }
+
+    }
 }

@@ -9,10 +9,9 @@ export const TimeTablePg = () =>
     return(
         <div className="timeTbalePG">
 
-<h1>Brazilian Jiu-Jistu Grappling</h1>
+<h1 className="fees">R950.00 Monthly</h1>
 
-<h1>R950.00 Monthly</h1>
-
+<div className="timeTableTxt">
 <h2>Advanced Classes </h2>
 
 <h3>Monday and Wednesday 18H00-19H00 Gi, 19H00-20H00 No-Gi.</h3>
@@ -26,6 +25,9 @@ export const TimeTablePg = () =>
 
 
 <h2> Open Mat every Saturday 10am.</h2>
+</div>
+
+
 
 <br>
 

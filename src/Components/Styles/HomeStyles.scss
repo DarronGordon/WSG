@@ -107,3 +107,114 @@ margin: auto;
     border-radius: 2%;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
+
+  
+@media (min-width: 40rem){
+
+    h1{
+font-size: 3.3rem;
+    }
+
+   .hrDotted{
+        border-top: 10px dotted black;
+        width: 1vw;
+        margin: 0;
+        visibility: hidden;
+    }
+    .homeGymAbout{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-self: center;
+        flex-wrap: wrap;
+        margin: 0;
+    }
+    
+.homeHeader{
+
+    img{
+        justify-content: center;
+        align-self: center;
+        background-position:center;
+        width: 100vw;
+        height: 65vh;
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin-top: 1rem;
+    }
+    background-image: linear-gradient(to right,#e0e0e0,#f8f7f7);
+}
+
+.homeAboutGym{
+
+    margin:1rem 0;
+    color: white;
+    background-image: linear-gradient(black,rgb(49, 3, 3));
+    width:30vw;
+    border-radius: 2%;
+    padding: 1rem;
+font-size: 1.8rem;
+opacity: .9;
+
+}
+
+.gymRanking{
+    background-image: url(../Images/rankingsBJJ.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 40vw;
+    color: white;
+    height:50vh;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    opacity: .9;
+}
+.achievementbadge{
+    width: 15vw;
+    margin-left:30vw;
+    visibility: hidden;
+    margin-top: 2.5rem;
+
+}
+.homeGymAbout{
+    background-image: url(../Images/gymRankingsBG.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.homeAboutInstructors{
+width: 40vw;
+font-size: 1.5rem;
+justify-content: center;
+align-items: center;
+margin: auto;
+}
+
+.instructorsBG{
+    background-color: #000000;
+    background-image: url(../Images/FooterImg.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 5rem;
+}
+
+.homeTestamonials{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+.testamonial{
+    width: 30vw;
+    margin: 1rem;
+    border-radius: 2%;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+}

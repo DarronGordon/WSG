@@ -29,9 +29,9 @@ import logo from "./Images/WSGLogoNew.png";
        <div className="footerContent">
 
        <div className="footerContentItem"> <img src={contactIcon} /><a href="contact">Contact Us</a></div>
-       <div className="footerContentItem"> <img src={phoneIcon} /><a href="contact"> Call:xxx-xxx-xxxx</a></div>
-       <div className="footerContentItem"> <img src={emailIcon} /><a href="contact">Email:Admin@WSG.co.za</a></div>
-       <div className="WSGfooter"> <a href="https://www.facebook.com/WiekusSwartGrappling"><img src={fbIcon} /></a><a href="https://www.instagram.com/wsg_academy_/"><img src={instaIcon} /></a><h5>Weikus Swart Grappling {dyear} &#169;</h5></div>
+       <div className="footerContentItem"> <img src={phoneIcon} /><a href="contact"> Call:082-331-9653</a></div>
+       <div className="footerContentItem"> <img src={emailIcon} /><a href="contact">Email:Wiekus@wsgacademy.co.za</a></div>
+       <div className="WSGfooter"> <a href="https://www.facebook.com/WiekusSwartGrappling"><img src={fbIcon} /></a><a href="https://www.instagram.com/wsg_academy_/"><img src={instaIcon} /></a><h5>Wiekus Swart Grappling {dyear} &#169;</h5></div>
 
        <p className="poweredBy"><a>Website Powered By WASSNET</a></p>
        </div>
