@@ -6,6 +6,9 @@ import ImageSlide from "./ImageSlider";
 
 import achievement from "./Images/achievement.png";
 
+import {TimeTablePg} from "./TimeTablePg";
+import {Contact} from "./Contact";
+
 export const Home =() =>{
 const aboutGym = Content.homeAboutGym;
 const aboutWiek = Content.homeAboutInstructor;
@@ -56,8 +59,19 @@ const aboutWiek = Content.homeAboutInstructor;
 </div>
 </div>
 
-
+<br></br>
 <hr></hr>
+<br></br>
+
+      <TimeTablePg/>
+
+      <br></br>
+      <hr></hr>
+      <br></br>
+      <Contact/>
+      <br></br>
+      <hr></hr>
+      <br></br>
 
 <h1>Testamonials</h1>
 
@@ -76,6 +90,8 @@ const aboutWiek = Content.homeAboutInstructor;
 </div>
 </div>
         </div>
+
+  
   
         </div>
     )
