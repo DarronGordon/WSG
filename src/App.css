@@ -1,10 +1,12 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;600&display=swap');
 body{
   margin: 0;
+  background-image: linear-gradient(to right,#d2d2d2,#f4f4f4);
 }
 
 .App{
   margin: 0;
   padding: 0;
   overflow-x: hidden;
+  font-family: 'Maven Pro', sans-serif;
 }

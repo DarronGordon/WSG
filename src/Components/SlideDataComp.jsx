@@ -1,0 +1,49 @@
+
+export const SlideDataComp=[
+    {
+        image:"oneA"
+    },
+    {
+        image:"aone"
+    },
+    {
+        image:"atwo"
+    },
+    {
+        image:"athree"
+    },
+    {
+        image:"afour"
+    },
+    {
+        image:"afive"
+    },    
+    {
+        image:"asix"
+    },
+    {
+        image:"agone"
+    },
+    {
+        image:"agtwo"
+    },
+    {
+        image:"agthree"
+    },
+    {
+        image:"agfour"
+    },
+    {
+        image:"agfive"
+    },    
+    {
+        image:"agsix"
+    },
+    {
+        image:"agseven"
+    },    
+    {
+        image:"ageight"
+    }
+]
+
