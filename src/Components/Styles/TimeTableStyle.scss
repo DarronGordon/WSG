@@ -17,7 +17,7 @@ h2{
     
 }
 .day{
-    width:100px;
+    width:90px;
     height:90px;
     background-color: blueviolet;
     border: 1px solid black;
@@ -28,7 +28,7 @@ h2{
     flex-direction: column;
 }
 .morning{
-    width:100px;
+    width:90px;
     height:90px;
     background-color: rgb(44, 146, 112);
     border: 1px solid black;
@@ -39,7 +39,7 @@ h2{
     flex-direction: column;
 }
 .evening{
-    width:100px;
+    width:90px;
     height:90px;
     background-color: rgb(247, 187, 23);
     border: 1px solid black;
@@ -92,6 +92,12 @@ background-color: rgb(77, 77, 77);
         background-repeat: no-repeat;
 
 }
+.timeTableTxt
+{
+margin:auto;
+justify-content: center;
+width:95%;
+}
 
 @media (min-width: 40rem)
 {
@@ -107,7 +113,8 @@ background-color: rgb(77, 77, 77);
        font-size:1.4rem;
     }
 
-    .timeTable{
+    .timeTable
+    {
         margin: 2rem 0;
     }
 

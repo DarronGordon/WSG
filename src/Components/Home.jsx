@@ -60,13 +60,13 @@ const aboutWiek = Content.homeAboutInstructor;
 </div>
 
 <br></br>
-<hr></hr>
+
 <br></br>
 
       <TimeTablePg/>
 
       <br></br>
-      <hr></hr>
+     
       <br></br>
       <Contact/>
       <br></br>

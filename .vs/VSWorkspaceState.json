@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Components"
+    "\\src\\Components",
+    "\\src\\Components\\Styles"
   ],
-  "SelectedNode": "\\src\\Components\\Home.jsx",
+  "SelectedNode": "\\src\\Components\\TimeTablePg.jsx",
   "PreviewInSolutionExplorer": false
 }
