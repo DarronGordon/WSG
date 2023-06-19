@@ -5,6 +5,7 @@ import {Content} from "./Contents";
 import ImageSlide from "./ImageSlider";
 
 import achievement from "./Images/achievement.png";
+import sponserImg from "./Images/SponserBanner.jpg";
 
 import {TimeTablePg} from "./TimeTablePg";
 import {Contact} from "./Contact";
@@ -73,6 +74,9 @@ const aboutWiek = Content.homeAboutInstructor;
       <hr></hr>
       <br></br>
 
+      <img className="sponserImg" src={sponserImg}></img>
+
+      <hr></hr>
 <h1>Testamonials</h1>
 
 <div className="homeTestamonials">
@@ -85,7 +89,7 @@ const aboutWiek = Content.homeAboutInstructor;
 <p>Max</p>
 </div>
 <div className="testamonial">
-<p>'Ever wanted to have the best time? come to WSG!!!.'</p>
+<p>'My home away from home!!!.'</p>
 <p>Anon</p>
 </div>
 </div>

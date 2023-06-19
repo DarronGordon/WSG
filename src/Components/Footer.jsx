@@ -6,7 +6,7 @@ import logo from "./Images/WSGLogoNew.png";
   
   import emailIcon from "./Images/emailIcon.png"
   
-  import contactIcon from "./Images/contactIcon.png"
+import contactIcon from "./Images/contactIcon.png";
 
   function Footer(){
 
